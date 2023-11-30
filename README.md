@@ -28,9 +28,7 @@ Numpy es quizás la librería más utilizada en lo que respecta a Python, se uti
 ## Laboratorios 1 y 2: Color Segmentation
 La segmentación, si bien bajo muchos aspectos consiste en una operación bastante simple, es un proceso bastante útil a la hora de desarrollar algoritmos de detección de objetos o tracking. En términos simples, segmentar una imagen consiste en seccionar o aislar zonas de una imagen en función de algún atributo, como por ejemplo, intensidad o color. En este tutorial aprenderá los primeros pasos en cuanto a procesamiento de imágenes, desde cargar las imágenes como arreglos numéricos, hasta manipular sus valores mediante filtros y segmentadores. (Clickear la imagen para acceder al video de la auxiliar)
 
-[![Open In Youtube](https://img.youtube.com/vi/9KVtBZMUaYo/hqdefault.jpg)](https://youtu.be/9KVtBZMUaYo?t=1)
-
-[![Open In Youtube](https://img.youtube.com/vi/WCScwb0OXPM/hqdefault.jpg)](https://youtu.be/WCScwb0OXPM?t=1)
+[![Open In Youtube](https://img.youtube.com/vi/9KVtBZMUaYo/hqdefault.jpg)](https://youtu.be/9KVtBZMUaYo?t=1) [![Open In Youtube](https://img.youtube.com/vi/WCScwb0OXPM/hqdefault.jpg)](https://youtu.be/WCScwb0OXPM?t=1)
 
 ## Laboratorio 3: Shape Detection
 La Transformada de Hough es una técnica que permite detectar geometrías en una imagen, mientras esta pueda ser parametrizada matemáticamente. Mediante su matriz acumuladora de votos, logra detectar recta y círculos incluso si estos presentan ruido o irregularidades. En este worshop utilizaremos las implementaciones de la Transformada de Hough en OpenCV para trackear y orientar un cuaderno en una imagen. (Clickear la imagen para acceder al video de la auxiliar)
@@ -46,9 +44,7 @@ El Scale-Invariant Feature Transform (SIFT) es un algoritmo, desarrollado por D.
 
 Los algoritmos genéticos (GA) son una heurística de optimización, inspirada en la evolución biológica, donde los problemas pasan a ser modelados como la simulación de una población de individuos. Durante estas simulaciones, los indiviudos son sometidos a los principios fundamentales de la Teoría de Darwin como la heredabilidad genética, la recombinación genética aleatoria (mutaciones) y la supervivencia de los más aptos (selección natural). En este workshop implementaremos un algoritmo genético utilizando la librería especializada pyevolve para resolver un problema de maximización multivariable. (Clickear la imagen para acceder al video de la auxiliar)
 
-[![Open In Youtube](https://img.youtube.com/vi/DdbCE3LVnjE/hqdefault.jpg)](https://youtu.be/DdbCE3LVnjE?t=1)
-
-[![Open In Youtube](https://img.youtube.com/vi/JPPglee3g-4/hqdefault.jpg)](https://youtu.be/JPPglee3g-4?t=1)
+[![Open In Youtube](https://img.youtube.com/vi/DdbCE3LVnjE/hqdefault.jpg)](https://youtu.be/DdbCE3LVnjE?t=1) [![Open In Youtube](https://img.youtube.com/vi/JPPglee3g-4/hqdefault.jpg)](https://youtu.be/JPPglee3g-4?t=1)
 
 ## Laboratorio 9: Neural Networks
 
